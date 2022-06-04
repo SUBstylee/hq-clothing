@@ -1,6 +1,6 @@
 .cart__dropdown__container {
     position: absolute;
-    width: 290px;
+    width: 240px;
     height: 340px;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,6 @@
       height: 240px;
       display: flex;
       flex-direction: column;
-      overflow: scroll;
     }
   
     button {
