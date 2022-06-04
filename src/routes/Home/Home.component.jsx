@@ -3,7 +3,7 @@ import Directory from '../../components/Directory/Directory.component';
 const Home = () => {
 	return (
 		<div>
-			<Directory />;
+			<Directory />
 		</div>
 	);
 };
